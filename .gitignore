@@ -30,5 +30,6 @@ Thumbs.db
 package-lock.json
 yarn.lock
 
-# Ignore Image files
-.Images/
+# Ignore Image directory
+
+Images/
