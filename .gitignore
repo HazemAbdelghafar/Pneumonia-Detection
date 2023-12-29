@@ -30,6 +30,5 @@ Thumbs.db
 package-lock.json
 yarn.lock
 
-# Ignore Image directory
-
-Images/
+# Ignore saved models and checkpoints
+*.h5
